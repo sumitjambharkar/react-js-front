@@ -1,0 +1,39 @@
+.first_footer{
+    background-color:#1b2740;
+    width: 100%;
+    padding:24px;
+
+}
+.sec_footer{
+    background-color: rgb(68, 68, 68);
+    width: 100%;
+
+}
+.footer_option{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    line-height:80px;
+}
+.footer_option span {
+    margin-left:14px;
+    font-size:14px;
+    color:#ffffffA6;
+}
+.footer_option p {
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    font-size:14px;
+    color:#ffffffA6;
+
+}
+h3,h5{
+    color: white;
+}
+span,p{
+    color:#ffffffA6;
+}
+.social{
+    color: white;
+}

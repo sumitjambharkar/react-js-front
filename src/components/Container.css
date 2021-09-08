@@ -1,0 +1,23 @@
+.header_f {
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.header_f h3{
+    color: black;
+}
+.header_s {
+    margin-top: 30px;
+
+}
+.header_s,span{
+    font-size:14px;
+    color:gray;
+}
+.header span{
+    color: black;
+}
+.section{
+    background-image: linear-gradient(#dfefff, white, white,white,white);
+}

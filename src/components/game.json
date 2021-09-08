@@ -1,0 +1,74 @@
+[
+    {
+        "image": "https://gameloot.in/wp-content/uploads/2020/07/Project-Cars-3-300x343.jpg",
+        "name": "Project Cars 3 PS4",
+        "price": "Rs. 3,999",
+        "rating":5
+    },
+    {
+        "image": "https://gameloot.in/wp-content/uploads/2020/07/MafiaTrilogy-PS4-300x343.jpg",
+        "name": "Mafia Trilogy PS4",
+        "price": "Rs. 3,999",
+        "rating":3
+    },
+    {
+        "image": "https://gameloot.in/wp-content/uploads/2020/07/UFC-300x343.jpg",
+        "name": "UFC 4 PS4 (Pre-owned)",
+        "price": "Rs. 3,499",
+        "rating":4
+    },
+    {
+        "image": "https://gameloot.in/wp-content/uploads/2020/07/NBA-300x343.jpg",
+        "name": "NBA 2K21 PS4",
+        "price": "Rs. 3,999",
+        "rating":5
+    },
+    {
+        "image": "https://gameloot.in/wp-content/uploads/2019/09/MAPS4-300x343.jpg",
+        "name": "Marvels Avengers PS4",
+        "price": "Rs. 3,999",
+        "rating":3
+    },
+    {
+        "image": "https://gameloot.in/wp-content/uploads/2020/07/NBA-300x343.jpg",
+        "name": "NBA 2K21 PS4 (Pre-owned)",
+        "price": "Rs. 3,249",
+        "rating":3
+    },
+    {
+        "image": "https://gameloot.in/wp-content/uploads/2020/07/F1-300x343.jpg",
+        "name": "F1 2020 PS4 (Pre owned)",
+        "price": "Rs. 3,299",
+        "rating":3
+    },
+    {
+        "image": "https://gameloot.in/wp-content/uploads/2019/09/The-Sinking-city-300x343.jpg",
+        "name": "The Sinking City PS4 (Pre-owned)",
+        "price": "Rs. 3,199",
+        "rating":5
+    },
+    {
+        "image": "https://gameloot.in/wp-content/uploads/2020/03/Ghost-of-Tsushima-PS4-300x343.jpg",
+        "name": "Ghost of Tsushima PS4 (Pre-owned)",
+        "price": "Rs. 3,099",
+        "rating":4
+    },
+    {
+        "image": "https://gameloot.in/wp-content/uploads/2019/09/MAPS4-300x343.jpg",
+        "name": "Marvels Avengers PS4 (Pre-owned)",
+        "price": "Rs. 3,099",
+        "rating":3
+    },
+    {
+        "image": "https://gameloot.in/wp-content/uploads/2019/10/Call-of-duty-modern-warfare-PS4-300x343.jpg",
+        "name": "Call of Duty Modern Warfare PS4 (Pre-own...",
+        "price": "Rs. 2,899",
+        "rating":5
+    },
+    {
+        "image": "https://gameloot.in/wp-content/uploads/2019/12/Resident-Evil-3-Remake-300x343.jpg",
+        "name": "Resident Evil 3 Remake PS4 (Pre-owned)",
+        "price": "Rs. 2,799",
+        "rating":3
+    }
+]
